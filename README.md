@@ -42,4 +42,4 @@ I'm looking for like-minded people to build this future together.
 💌 **Contact**  
 opensynapselabs@proton.me
 
-*Intelligence for a Better World*
+*Intelligence for a Better World* 
