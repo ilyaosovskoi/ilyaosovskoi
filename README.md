@@ -51,8 +51,8 @@ I build **free, self-hosted and vendor-neutral AI tooling** — code, models and
 
 <div align="center">
 
-[![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyaosovskoi&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=false)](https://github.com/ilyaosovskoi)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaosovskoi&layout=compact&theme=tokyonight&hide_border=false)](https://github.com/ilyaosovskoi)
+<img src="https://raw.githubusercontent.com/ilyaosovskoi/github-stats/main/stats.svg" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/ilyaosovskoi/github-stats/main/top-langs.svg" alt="Top languages"/>
 
 </div>
 
@@ -69,7 +69,7 @@ TUI-first · BYOK across 16+ providers · fully offline with Ollama/LM Studio ·
 [![Textual](https://img.shields.io/badge/UI-Textual-8B5CF6?style=flat-square)](https://textual.textualize.io/)
 
 <a href="https://github.com/ilyaosovskoi/Tera-Pilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ilyaosovskoi&repo=Tera-Pilot&theme=tokyonight&hide_border=true" alt="Tera Pilot"/>
+  <img src="https://raw.githubusercontent.com/ilyaosovskoi/github-stats/main/tera-pilot.svg" alt="Tera Pilot repo card"/>
 </a>
 
 <br/>
@@ -80,10 +80,8 @@ TUI-first · BYOK across 16+ providers · fully offline with Ollama/LM Studio ·
 
 ## 🛤 What I'm working on
 
-- [x] VQ audio tokenization & dopamine-modulated learning (ARCHE3-Animal research)
-- [x] HiveStore mmap architecture — trained 1B params on consumer hardware
 - [x] **Tera Pilot** — self-hosted coding agent for private repos
-- [ ] **Arche4-rift** — next-gen model applying ARCHE3 findings to code generation
+- [ ] Grow Tera Pilot — more providers, plugins and offline workflows
 - [ ] More free, self-hosted AI tooling
 
 ---
